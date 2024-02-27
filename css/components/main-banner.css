@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     box-sizing: border-box;
     background-image: url(../../assets/img/tiagobanner.jpg);
     background-repeat: no-repeat;
@@ -9,18 +9,18 @@
     padding-left: 20px;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 740px;
   
 }
 
-.banner .box {
+.main-banner .box {
     margin-bottom: 60px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     width: 400px;
     justify-content: space-around;
