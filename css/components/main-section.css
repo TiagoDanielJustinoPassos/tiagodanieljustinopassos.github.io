@@ -1,4 +1,4 @@
-.section {
+.main-section {
     font-family: 'Press Start 2p' , sans-serif;  
    font-size: 10px;
     color:#fff ;
@@ -14,11 +14,11 @@
     align-items: center;
 }
 
-.section .main-title {
+.main-section .main-title {
     margin-bottom: 70px;
 }
  
-.section.-bgBlack {
+.main-section.-bgBlack {
  background-color: black;
  border-bottom: 10px solid  #e74c3c;
  
